@@ -1,0 +1,8 @@
+{
+  "name": "ModernShop",
+  "app_id": "0824eba2",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
